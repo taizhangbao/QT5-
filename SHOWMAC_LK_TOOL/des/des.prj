@@ -1,0 +1,19 @@
+DESHEADERS =                            \
+                 .\des\DesEcb.h         \
+                 .\des\TripleDesEcb.h   \
+                 .\des\TripleDesCbc.h		\
+                 .\des\DeaFunc.h        \
+                 .\des\DesAlgo.h        \
+                 .\des\XTYPES.h        \
+                 .\des\KmsCipher.h     \
+                 .\des\DesCbc.h			\
+                 
+                
+DESSOURCES =  \
+             .\des\DesEcb.cpp            \
+             .\des\TripleDesEcb.cpp      \
+             .\des\TripleDesCbc.cpp				\
+             .\des\DeaFunc.cpp           \
+             .\des\DesAlgo.cpp           \
+             .\des\KmsCipher.cpp         \
+             .\des\DesCbc.cpp			\   
